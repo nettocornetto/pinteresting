@@ -16,3 +16,5 @@
 /tmp
 .DS_Store
 /public/system/*
+./ssh-add id_rsa
+./ssh-add id_rsa.pub
